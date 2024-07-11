@@ -9,7 +9,7 @@ const Employee=()=> {
 
     const [data, setData] = useState([]); 
     useEffect(() => {
-        fetch('http://localhost:3030/data')
+        fetch('/d.json')
             .then((res) => res.json())
             .then(d => setData(d))
             .catch(error => console.error('error fetching data:', error));
