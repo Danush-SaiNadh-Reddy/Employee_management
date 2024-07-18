@@ -137,10 +137,12 @@
       "email": "bromanellia@cdbaby.com",
       "project": [
         "It",
-        "BMW"
+        "BMW",
+        "OLA"
       ],
       "percentage": [
         40,
+        30,
         30
       ],
       "id": "9fed"
@@ -434,19 +436,6 @@
       "id": "0f9c"
     },
     {
-      "employeeName": "Abey Stowgill",
-      "email": "astowgill11@eventbrite.com",
-      "project": [
-        "Redhold",
-        "ASTELLAS"
-      ],
-      "percentage": [
-        68,
-        5
-      ],
-      "id": "09f7"
-    },
-    {
       "employeeName": "Tedda McIndoe",
       "email": "tmcindoe12@networksolutions.com",
       "project": [
@@ -467,17 +456,6 @@
         80
       ],
       "id": "a377"
-    },
-    {
-      "employeeName": "Albie Vowles",
-      "email": "avowles14@imageshack.us",
-      "project": [
-        "Stim"
-      ],
-      "percentage": [
-        96
-      ],
-      "id": "469d"
     },
     {
       "employeeName": "Missie Peltzer",
@@ -546,24 +524,15 @@
       "id": "6c3c"
     },
     {
-      "employeeName": "Thorstein Pessel",
-      "email": "tpessel1b@miitbeian.gov.cn",
-      "project": [
-        "Zaam-Dox"
-      ],
-      "percentage": [
-        77
-      ],
-      "id": "9ff6"
-    },
-    {
       "employeeName": "Ann Poulsen",
       "email": "apoulsen1c@rakuten.co.jp",
       "project": [
-        "Transcof"
+        "Transcof",
+        "astellas"
       ],
       "percentage": [
-        73
+        73,
+        2
       ],
       "id": "6f73"
     },
@@ -599,17 +568,6 @@
         52
       ],
       "id": "8491"
-    },
-    {
-      "employeeName": "Arabella Deniso",
-      "email": "adeniso1g@spotify.com",
-      "project": [
-        "Y-find"
-      ],
-      "percentage": [
-        44
-      ],
-      "id": "1583"
     },
     {
       "employeeName": "Rosaleen Attlee",
@@ -777,17 +735,6 @@
       "id": "cd86"
     },
     {
-      "employeeName": "Taffy Bugg",
-      "email": "tbugg1w@cornell.edu",
-      "project": [
-        "Toughjoyfax"
-      ],
-      "percentage": [
-        4
-      ],
-      "id": "abea"
-    },
-    {
       "employeeName": "Lilias MacNeely",
       "email": "lmacneely1x@feedburner.com",
       "project": [
@@ -810,17 +757,6 @@
       "id": "eba2"
     },
     {
-      "employeeName": "Jolyn Witty",
-      "email": "jwitty1z@1688.com",
-      "project": [
-        "Quo Lux"
-      ],
-      "percentage": [
-        69
-      ],
-      "id": "1893"
-    },
-    {
       "employeeName": "Beilul Dalgarnocht",
       "email": "bdalgarnocht20@samsung.com",
       "project": [
@@ -841,17 +777,6 @@
         31
       ],
       "id": "2e1b"
-    },
-    {
-      "employeeName": "Valli Brecher",
-      "email": "vbrecher22@earthlink.net",
-      "project": [
-        "Voyatouch"
-      ],
-      "percentage": [
-        70
-      ],
-      "id": "f3f9"
     },
     {
       "employeeName": "Corene Hancorn",
@@ -964,17 +889,6 @@
       "id": "1ce6"
     },
     {
-      "employeeName": "Jobi Beere",
-      "email": "jbeere2d@gmpg.org",
-      "project": [
-        "Tampflex"
-      ],
-      "percentage": [
-        22
-      ],
-      "id": "ed67"
-    },
-    {
       "employeeName": "Terrill Yerbury",
       "email": "tyerbury2e@princeton.edu",
       "project": [
@@ -989,10 +903,12 @@
       "employeeName": "Smith Berka",
       "email": "sberka2f@mapquest.com",
       "project": [
-        "Kanlam"
+        "Kanlam",
+        "song"
       ],
       "percentage": [
-        84
+        84,
+        2
       ],
       "id": "ccca"
     },

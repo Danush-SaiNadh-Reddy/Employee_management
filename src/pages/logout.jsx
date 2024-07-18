@@ -5,7 +5,7 @@ const Logout = () => {
 
   React.useEffect(() => {
     localStorage.clear(); 
-    navigate('/SignUp');
+    navigate('/');
   }, [navigate]);
 
   return null; 

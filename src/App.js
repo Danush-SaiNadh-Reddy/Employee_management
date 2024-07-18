@@ -1,11 +1,11 @@
 import './App.css';
 import Signup from './pages/signup'
-import Nav from './nav'
+import Nav from './components/nav'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Employee from './pages/employee'
 import Allocate from './pages/allocate'
 import Home from './pages/home' 
-import PrivateRoutes from './PrivateRoutes' 
+import PrivateRoutes from './components/PrivateRoutes' 
 import Logout from './pages/logout'
 function App() {
   return (

@@ -9,7 +9,7 @@ const Employee=()=> {
 
     const [data, setData] = useState([]); 
     useEffect(() => {
-        fetch('/d.json')
+        fetch('http://localhost:3030/data')
             .then((res) => res.json())
             .then(d => setData(d))
             .catch(error => console.error('error fetching data:', error));
@@ -50,7 +50,7 @@ const Employee=()=> {
     }
     return (
         <div className='bg-slate-600 min-h-screen'>
-            <div className='text-center text-3xl  py-6 text-white '>EMPLOYEE PAGE</div>
+            <div className='text-center text-3xl  py-6 text-white '>EMPLOYEE DETAILS</div>
 
 
             <div className=' grid grid-cols-4 items-center justify-between gap-3 pt-8 pb-4'>
@@ -109,7 +109,7 @@ const Employee=()=> {
 
 
             <div className='grid grid-cols-2 items-center justify-between py-8 gap-8'>  
-            <div className='text-right'><button className="bg-orange-500 text-white hover:bg-orange-600 w-24 border-2 rounded-lg " onClick={allocate}>SELECT</button></div>
+            <div className='text-right'><button className="bg-orange-500 text-white hover:bg-orange-600 w-24 border-2 rounded-lg " onClick={allocate}>ALLOCATE</button></div>
             <div className='text-left'><button className="bg-orange-500 text-white hover:bg-orange-600 w-24 border-2 rounded-lg " onClick={clears}>CLEAR</button></div> 
             </div>  
         </div>
