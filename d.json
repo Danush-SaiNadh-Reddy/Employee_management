@@ -505,10 +505,12 @@
       "employeeName": "Bevan Stiegar",
       "email": "bstiegar1a@auda.org.au",
       "project": [
-        "Fintone"
+        "Fintone",
+        "astellas"
       ],
       "percentage": [
-        44
+        44,
+        12
       ],
       "id": "6c3c"
     },

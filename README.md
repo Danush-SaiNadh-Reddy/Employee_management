@@ -1,3 +1,12 @@
+FIRST create d.json file and copy the data from github
+
+SEcond Install  json-server in ur vscode by following command
+"npm install json-server "
+
+and run json-server --watch d.json --port 3030
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
